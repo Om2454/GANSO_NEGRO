@@ -1,4 +1,4 @@
-# Proyecto el Ganso Negro
+#  el Ganso Negro
 
 ***OMAR NOGUEZ JAVIER***
 
